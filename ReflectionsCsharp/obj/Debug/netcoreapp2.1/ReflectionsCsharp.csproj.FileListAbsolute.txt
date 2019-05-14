@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\bin\Debug\netcoreapp2.1\ReflectionsCsharp.deps.json
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\bin\Debug\netcoreapp2.1\ReflectionsCsharp.runtimeconfig.json
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\bin\Debug\netcoreapp2.1\ReflectionsCsharp.runtimeconfig.dev.json
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\bin\Debug\netcoreapp2.1\ReflectionsCsharp.dll
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\bin\Debug\netcoreapp2.1\ReflectionsCsharp.pdb
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.AssemblyInfo.cs
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.dll
+C:\Users\user\source\repos\ReflectionsCsharp\ReflectionsCsharp\obj\Debug\netcoreapp2.1\ReflectionsCsharp.pdb
